@@ -5,8 +5,10 @@
   <img src="gh-stats.svg" width="100%" alt="GitHub Stats" />
   <img src="footer.svg" width="100%" alt="Footer" />
 </div>
+<br />
+
+<!-- GitHub Achievements Section -->
 <div align="center">
   <img src="https://vercel.app" alt="GitHub Achievements" width="100%" />
 </div>
 
-<br />
